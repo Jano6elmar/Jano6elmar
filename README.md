@@ -7,7 +7,7 @@
 - 🌱 Actualmente: desarrollo mis habilidades trabajando en equipo en simulaciones laborales,
 - 👯 Me estoy dirigiendo a: aprender Angular JS 
 - 🥅 Metas 2023: 
-- ⚡Entreno a diario para llegar flexible y fuerte a los 90 años 
+- ⚡ Entreno a diario para llegar flexible y fuerte a los 90 años 
 
 
 ### Conecta con migo:
