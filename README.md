@@ -11,8 +11,8 @@
 
 
 ### Conecta con migo:
-[![website](./img/gmail-svgrepo-com.svg)](mailto:jano6belmar@gmail.com?subject=Asuntodelmensaje&)
-
+[![website](./img/gmail-svgrepo-com.svg)](mailto:jano6belmar@gmail.com?subject=contacto&)
+&nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-belmar-chavez/)
 
 
