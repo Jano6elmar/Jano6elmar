@@ -5,8 +5,8 @@
 
 
 - 🌱 Actualmente: desarrollo mis habilidades trabajando en equipo en simulaciones laborales,
-- 👯 Me estoy dirigiendo a: aprender Angular JS 
-- 🥅 Metas 2023: 
+- 👯 Me estoy dirigiendo a: conseguir empleo en Tecnología  
+- 🥅 Metas 2023: aprender Angular JS
 - ⚡ Entreno a diario para llegar flexible y fuerte a los 90 años 
 
 
