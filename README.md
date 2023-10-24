@@ -1,7 +1,7 @@
 # Hola, mi nombre es Alejandro Belmar Chavez 
 
 
-## Soy desarrollador e instructor de artes internas, he experimentado con el front y con el back,     pero me gustaría dominar el trabajo con frameworks de frontend y destacar esta area y luego también dominar bien un lenguaje para backend. 
+## Soy desarrollador e instructor de artes internas, he experimentado con el front y con el back,     pero me gustaría dominar el trabajo con frameworks de frontend y destacar en esta área y luego también dominar bien un lenguaje para backend. 
 
 
 - 🌱 Actualmente: desarrollo mis habilidades trabajando en equipo en simulaciones laborales,
