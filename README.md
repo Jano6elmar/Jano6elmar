@@ -1,4 +1,4 @@
-# Hola, mi nombre es Alejandro Belmar Chavez - 
+# Hola, mi nombre es Alejandro Belmar Chavez 
 
 
 ## Soy desarrollador, instructor de artes internas!!
