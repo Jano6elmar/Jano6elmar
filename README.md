@@ -38,11 +38,9 @@
 <br />
 
 
-<details>
   
  
 
-</details>
 
 <details>
 
