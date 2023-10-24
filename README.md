@@ -13,7 +13,8 @@
 ### Conecta con migo:
 
 &nbsp;&nbsp;
-![website](./img/linkedin-dark.svg)(https://www.linkedin.com/in/alejandro-belmar-chavez/)
+
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-belmar-chavez/)
 
 
 
