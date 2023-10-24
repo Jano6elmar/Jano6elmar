@@ -1,7 +1,7 @@
 # Hola, mi nombre es Alejandro Belmar Chavez 
 
 
-## Soy desarrollador, instructor de artes internas!!
+## Soy desarrollador e instructor de artes internas!!
 
 
 - 🌱 Actualmente: desarrollo mis habilidades trabajando en equipo en simulaciones laborales,
