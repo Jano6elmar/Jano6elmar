@@ -4,13 +4,13 @@
 ## Soy desarrollador, instructor de artes internas!!
 
 
-- 🌱 I’m currently 
-- 👯 I’m looking to 
-- 🥅 2023 Goals: 
-- ⚡ Fun fact: 
+- 🌱 Actualmente: desarrollo mis habilidades trabajando en equipo en simulaciones laborales,
+- 👯 Me estoy dirigiendo a: aprender Angular JS 
+- 🥅 Metas 2023: 
+- ⚡ : 
 
 
-### Connect with me:
+### Conecta con migo:
 
 
 
