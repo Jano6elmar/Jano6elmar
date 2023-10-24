@@ -11,7 +11,7 @@
 
 
 ### Conecta con migo:
-[![website](./img/gmail-svgrepo-com.svg)](https://www.linkedin.com/in/alejandro-belmar-chavez/)
+[![website](./img/gmail-svgrepo-com.svg)](jano6belmar@gmail.com)
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alejandro-belmar-chavez/)
 
